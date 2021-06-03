@@ -2,7 +2,6 @@ streamlit
 streamlit_folium
 folium
 requests
-mimetypes
 http.client
 pandas
 folium.plugins
