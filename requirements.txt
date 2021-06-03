@@ -1,3 +1,11 @@
 streamlit
-numpy
+streamlit_folium
+json
+folium
+requests
+mimetypes
+http.client
 pandas
+folium.plugins
+plotly
+plotly.express as px
