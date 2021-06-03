@@ -4,6 +4,4 @@ folium
 requests
 http.client
 pandas
-folium.plugins
 plotly
-plotly.express
