@@ -8,4 +8,4 @@ http.client
 pandas
 folium.plugins
 plotly
-plotly.express as px
+plotly.express
